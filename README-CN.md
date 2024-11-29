@@ -36,7 +36,7 @@ module "log_archive" {
   delivery_to_sls            = true
   delivery_to_oss            = true
   actiontrail_trail_name     = "muti-account-trail"
-  actiontrail_trail_event_rw = "ALL"
+  actiontrail_trail_event_rw = "All"
 }
 ```
 
