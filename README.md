@@ -69,18 +69,18 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [alicloud_actiontrail_trail.trail](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/actiontrail_trail) | resource |
-| [alicloud_log_project.actiontrail](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/log_project) | resource |
-| [alicloud_oss_bucket.actiontrail](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/oss_bucket) | resource |
-| [alicloud_oss_bucket_acl.actiontrail](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/oss_bucket_acl) | resource |
-| [alicloud_ram_role.actiontrail](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/ram_role) | resource |
-| [alicloud_ram_role_policy_attachment.attach_policy](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/ram_role_policy_attachment) | resource |
+| [alicloud_actiontrail_trail.trail](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/actiontrail_trail) | resource |
+| [alicloud_log_project.actiontrail](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/log_project) | resource |
+| [alicloud_oss_bucket.actiontrail](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/oss_bucket) | resource |
+| [alicloud_oss_bucket_acl.actiontrail](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/oss_bucket_acl) | resource |
+| [alicloud_ram_role.actiontrail](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/ram_role) | resource |
+| [alicloud_ram_role_policy_attachment.attach_policy](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/ram_role_policy_attachment) | resource |
 | [random_integer.default](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/integer) | resource |
-| [alicloud_account.logarchive](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/data-sources/account) | data source |
-| [alicloud_account.management](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/data-sources/account) | data source |
-| [alicloud_log_service.enable_sls_service](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/data-sources/log_service) | data source |
-| [alicloud_oss_service.enable_oss_service](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/data-sources/oss_service) | data source |
-| [alicloud_regions.sls_project_region](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/data-sources/regions) | data source |
+| [alicloud_account.logarchive](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/data-sources/account) | data source |
+| [alicloud_account.management](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/data-sources/account) | data source |
+| [alicloud_log_service.enable_sls_service](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/data-sources/log_service) | data source |
+| [alicloud_oss_service.enable_oss_service](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/data-sources/oss_service) | data source |
+| [alicloud_regions.sls_project_region](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/data-sources/regions) | data source |
 
 ## Inputs
 
